@@ -1,0 +1,22 @@
+{
+    "definitions": {
+      "BudgetBreakdown": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "title": "Status",
+            "description": "The status of the certificate of budgetary availability."
+          },
+          "availabilityCertificateNumber": {
+            "type": "integer",
+            "title": "Availability Certificate Number",
+            "description": "Number of Availability Certificate"
+          },
+          "commitedAmount": {
+            "description": "Amount in the contract.",
+            "$ref": "#/definitions/Value"
+          }
+        }
+      }
+    }
+  }

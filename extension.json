@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en": "Budget Breakdown Additional Fields for Paraguay"
+  },
+  "description": {
+    "en": "The following fields were added to the BudgetBreakdown definition: status, availabilityCertificateNumber and commitedAmount"
+  },
+  "documentationUrl": {
+    "en": "http://httpbin.org/anything/path/to/documentation/in/specified/language"
+  }
+}
