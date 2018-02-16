@@ -7,5 +7,8 @@
   },
   "documentationUrl": {
     "en": "http://httpbin.org/anything/path/to/documentation/in/specified/language"
-  }
+  },
+  "dependencies": [
+    "https://raw.githubusercontent.com/open-contracting/ocds_budget_breakdown_extension/master/extension.json"
+  ]
 }
