@@ -10,5 +10,11 @@
   },
   "dependencies": [
     "https://raw.githubusercontent.com/open-contracting/ocds_budget_breakdown_extension/master/extension.json"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
   ]
 }
